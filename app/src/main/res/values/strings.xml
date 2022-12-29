@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="textview_name">Name</string>
+    <string name="textview_hint_name">Digite seu nome</string>
+    <string name="textview_hint_phone">Digite seu telefone</string>
+    <string name="textview_phone">Telefone</string>
+    <string name="button_adicionar">Adicionar</string>
+    <string name="button_consultar">Consultar</string>
+    <string name="button_editar">Editar</string>
+    <string name="button_deletar">Deletar</string>
+
+</resources>
